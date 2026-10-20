@@ -25,3 +25,6 @@ aws-serverless-api/
 ├── outputs.tf              # Exposes public API Gateway endpoints after deployment
 ├── providers.tf            # Provider version requirements and AWS region configurations
 └── terraform.tfstate       # Local state file tracking provisioned resources
+
+## Practice Section
+This section was added via a separate git branch to test merging workflows.
